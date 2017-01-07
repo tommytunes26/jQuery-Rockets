@@ -3,4 +3,4 @@ Rockets with jQuery
 
 Simple page showcasing jQuery movment commands.
 
-<img src="rocketship_copy/ufoSm.gif" />
+<img src="rocketShip-copy/ufoSm.png" />
